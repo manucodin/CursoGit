@@ -1,5 +1,2 @@
-console.log("ADIOS MUNDO 3");
-<<<<<<< HEAD
+console.log("Hola mundo");
 console.log("Adios mundo");
-=======
->>>>>>> master
